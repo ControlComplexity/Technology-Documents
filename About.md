@@ -1,11 +1,18 @@
 ##### 简介：
 人工智能行业的软件开发工程师。擅长Java，Go和前端开发。
 
+##### Github账号
+https://github.com/ControlComplexity
+
+##### Gitee账号
+https://gitee.com/control_complexity
+
 ##### 力扣主页
 https://leetcode.cn/u/competent-gagarinknx/
 
 ##### 《软件开发破冰之旅》（未完成）
 https://github.com/ControlComplexity/Technology-Documents/blob/master/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%A0%B4%E5%86%B0%E4%B9%8B%E6%97%85.docx
+
 
 ##### 获奖情况： 
 2016年：Top 50 in “China User Experience Design Competition” 。
