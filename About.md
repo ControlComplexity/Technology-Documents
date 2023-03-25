@@ -1,7 +1,7 @@
 ### 王操的技术主页
 
 ##### 简介：
-人工智能行业的软件开发工程师。擅长Java，Go和前端开发。
+软件开发工程师,人工智能行业。擅长Java，Go和前端开发。
 
 ##### Github账号
 https://github.com/ControlComplexity
