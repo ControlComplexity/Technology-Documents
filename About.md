@@ -28,7 +28,7 @@
 Go，Python，Vue，pix2pix，deeplearn.js，gRPC，Redis，MySQL，OSS，Docker，Kubernetes，WebSocket
  ...
 
-### 获奖情况： 
+### 获奖
 * 2016年：中国用户体验设计大赛全国五十强。需求文档：https://github.com/ControlComplexity/BookTravel/blob/master/%E4%B9%A6%E6%97%85%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3(%E5%88%9D%E7%A8%BF)1.1.doc
 * 2021年：低碳出行APP在“Polestar Hackathon”中进入决赛。项目原型：https://www.figma.com/file/57RRx9O9bdGkAn1XdogSFB/%E4%BD%8E%E7%A2%B3%E5%87%BA%E8%A1%8C?node-id=0%3A1
 
