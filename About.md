@@ -13,7 +13,7 @@
 ### 力扣主页
 * https://leetcode.cn/u/competent-gagarinknx/
 
-##### 《软件开发破冰之旅》（未完待续）
+### 起草了一本技术书叫《软件开发破冰之旅》，针对软件开发中一些反面案例。目前完成了40%。
 * https://github.com/ControlComplexity/Technology-Documents/blob/master/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%A0%B4%E5%86%B0%E4%B9%8B%E6%97%85.docx
 
 ### （业余）项目展示
