@@ -13,8 +13,8 @@
 ### 力扣主页
 * https://leetcode.cn/u/competent-gagarinknx/
 
-### 起草了一本技术书叫《软件开发破冰之旅》，针对软件开发中一些反面案例。目前完成了40%。
-* https://github.com/ControlComplexity/Technology-Documents/blob/master/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%A0%B4%E5%86%B0%E4%B9%8B%E6%97%85.docx
+### 《软件开发破冰之旅》
+* 起草了一本技术书叫《软件开发破冰之旅》，针对软件开发中一些反面案例。目前完成了40%。https://github.com/ControlComplexity/Technology-Documents/blob/master/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%A0%B4%E5%86%B0%E4%B9%8B%E6%97%85.docx
 
 ### （业余）项目展示
 * 江浙沪网（展示江浙沪范围的风景、美食、历史、活动等。先聚焦热点地区。这是基于CMS的系统，而不是马蜂窝网站一样每个用户都可以编辑和写文章的系统。因此，需要质量高的文章。参考：粤港澳大湾区门户网站，中国国家地理，活动行等）：http://101.43.39.188/jiangzhehu/home 
