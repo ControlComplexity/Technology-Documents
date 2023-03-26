@@ -29,14 +29,14 @@ Go，Python，Vue，gRPC，Docker，Kubernetes，Redis，MySQL，OSS，WebSocket
  ...
 
 ### 获奖情况： 
-* 2016年：Top 50 in “China User Experience Design Competition” 
-* 2021年： Enter the final in “Polestar Hackathon”
+* 2016年：中国用户体验设计大赛全国五十强。
+* 2021年：“Polestar Hackathon” 进入决赛。项目原型：https://www.figma.com/file/57RRx9O9bdGkAn1XdogSFB/%E4%BD%8E%E7%A2%B3%E5%87%BA%E8%A1%8C?node-id=0%3A1
 
 ### 其他
 * 英语听说读写能力强，通过CET-6
-* CFA一级
+* 通过CFA一级（全球排名前10%）
 
 ### 公众号：
 * 软件开发理论
 
-做这些的目的是学习与交流。很多产品方面的构想还比较粗糙，很多技术方面的想法还不够完善细致。有任何见解、意见欢迎和我交流（微信：13167266119）。希望有用。
+做这些的目的是学习与交流。很多产品方面的构想还比较粗糙，很多技术方面的想法还不够完善细致。有任何见解、意见欢迎和我交流（微信：13167266119）。希望有用，能帮到大家。
