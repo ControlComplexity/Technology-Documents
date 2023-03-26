@@ -30,7 +30,7 @@ Go，Python，Vue，gRPC，Docker，Kubernetes，Redis，MySQL，OSS，WebSocket
 
 ### 获奖情况： 
 * 2016年：中国用户体验设计大赛全国五十强。
-* 2021年：“Polestar Hackathon” 进入决赛。项目原型：https://www.figma.com/file/57RRx9O9bdGkAn1XdogSFB/%E4%BD%8E%E7%A2%B3%E5%87%BA%E8%A1%8C?node-id=0%3A1
+* 2021年：低碳出行APP在“Polestar Hackathon”中进入决赛。项目原型：https://www.figma.com/file/57RRx9O9bdGkAn1XdogSFB/%E4%BD%8E%E7%A2%B3%E5%87%BA%E8%A1%8C?node-id=0%3A1
 
 ### 其他
 * 英语听说读写能力强，通过CET-6
