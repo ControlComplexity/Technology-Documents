@@ -25,7 +25,7 @@
 * 书法数字博物馆（基于OSS，提供海量的高清的历代书法图片。支持按条件查询，支持图片分析。要求系统的稳定性高，图片不丢失且不失真，图片分类明确，条理清晰。现存的一些书法图片网站的主要问题是界面比较旧，另外由于很多人不用电脑而用手机了，很多优秀的网站都没人维护了。）：构建中
 ...
 ###### 使用的技术
-Go，Python，Vue，pix2pix，deeplearn.js，gRPC，Redis，MySQL，OSS，Docker，Kubernetes，WebSocket
+Go，Java，Python，Vue，pix2pix，deeplearn.js，gRPC，Redis，MySQL，OSS，Docker，Kubernetes，WebSocket
  ...
 
 ### 获奖
