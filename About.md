@@ -1,22 +1,22 @@
-### 王操的技术主页
+## 王操的技术主页
 
-##### 简介：
+### 简介：
 * 软件开发工程师，人工智能行业。
 * 擅长Java，Go和前端开发。
 
-##### Github账号
+### Github账号
 * https://github.com/ControlComplexity
 
-##### Gitee账号
+### Gitee账号
 * https://gitee.com/control_complexity
 
-##### 力扣主页
+### 力扣主页
 * https://leetcode.cn/u/competent-gagarinknx/
 
 ##### 《软件开发破冰之旅》（未完待续）
 * https://github.com/ControlComplexity/Technology-Documents/blob/master/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%A0%B4%E5%86%B0%E4%B9%8B%E6%97%85.docx
 
-##### 项目展示
+### 项目展示
 * 江浙沪网（展示江浙沪范围的风景、美食、历史、活动等。先聚焦热点地区。这是基于CMS的系统，而不是马蜂窝网站一样每个用户都可以编辑和写文章的系统。因此，需要质量高的文章。参考：粤港澳大湾区门户网站，中国国家地理，活动行等）：http://101.43.39.188/jiangzhehu/home 
 * 后台管理系统（发布活动，风景，美食等文章。江浙沪网、书法教育、小程序等都需要不同的后台管理系统。这个系统的目标是稳定易用）：http://101.43.39.188/admin/#/login
 * 活动小程序（与江浙沪网相结合，可提供活动预约报名等功能。由于有支付功能，所以上线过程缓慢。）：上线申请中
@@ -28,15 +28,15 @@
 Go，Python，Vue，gRPC，Docker，Kubernetes，Redis，MySQL，OSS，WebSocket，pix2pix，deeplearn.js
  ...
 
-##### 获奖情况： 
+### 获奖情况： 
 * 2016年：Top 50 in “China User Experience Design Competition” 
 * 2021年： Enter the final in “Polestar Hackathon”
 
-##### 其他
+### 其他
 * 英语听说读写能力强，通过CET-6
 * CFA一级
 
-##### 公众号：
+### 公众号：
 * 软件开发理论
 
 做这些的目的是学习与交流。很多产品方面的构想还比较粗糙，很多技术方面的想法还不够完善细致。有任何见解、意见欢迎和我交流（微信：13167266119）。希望有用。
